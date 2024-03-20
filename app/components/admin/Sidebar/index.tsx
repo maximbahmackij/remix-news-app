@@ -1,5 +1,5 @@
 import SidebarItem from "./SidebarItem";
-import links from "./links";
+import links from "../links";
 
 const Sidebar = () => {
   return (
